@@ -87,6 +87,8 @@ if ack:
  
 c.close()
 ```
+## output
+![alt text](6.png)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
